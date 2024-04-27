@@ -47,7 +47,7 @@
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
 ![API](https://img.shields.io/badge/API-009688?style=for-the-badge&logo=api&logoColor=white)
 
-
+<hr/>
 <br/>
 <p align="center">
   <a href="https://github.com/Bassam-Serag">
@@ -67,19 +67,9 @@
   <br/>
 </a>
 
+<hr/>
+<br/>
 
 ![Bassam's Graph](https://github-readme-activity-graph.vercel.app/graph?username=bassam-serag&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-<hr/>
-<br/>
-<p align="center">
-  <a href="https://github.com/Bassam-Serag">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bassam-serag&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
-  </a>
-</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassam-serag&show_icons=true&locale=en&layout=compact" alt="bassam-serag" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassam-serag&show_icons=true&locale=en" alt="bassam-serag" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bassam-serag&" alt="bassam-serag" /></p>
