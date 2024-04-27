@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Bassam Serag</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bassam-serag&label=Profile%20views&color=0e75b6&style=flat" alt="bassam-serag" /> </p>
 
 
 <h3 align="left">Connect with me:</h3>
