@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bassam Serag</h1>
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Al+Siam">「 Google Me 」</a>
+    <a href="#">「 Connect with me 」</a>
     <br>
     「 I am a full stack web application developer from <b>Bangladesh</b> 」
     <br>
