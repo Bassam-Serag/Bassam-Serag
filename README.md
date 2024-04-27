@@ -50,7 +50,13 @@
 
 <br/>
 
+<p align="left">
+  <a href="https://github.com/alsiam?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
+<br/>
+<hr/>
+<br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bassam-serag&show_icons=true&locale=en&layout=compact" alt="bassam-serag" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bassam-serag&show_icons=true&locale=en" alt="bassam-serag" /></p>
