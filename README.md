@@ -3,7 +3,7 @@
   <samp>
     <a href="#">「 Connect with me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a Front end developer from <b>Egypt</b> 」
     <br>
     <br>
   </samp>
