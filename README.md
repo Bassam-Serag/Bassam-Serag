@@ -9,6 +9,9 @@
   </samp>
 </p>
 <p align="center">
+  <a href="mailto:bassamserag055@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
  <a href="https://www.behance.net/bassamserag" target="_blank">
   <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" />
 </a>
@@ -26,6 +29,7 @@
  <a href="https://www.facebook.com/profile.php?id=100008375294545" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="alsiam"  />
   </a> 
+  
 </p>
 <br />
 
