@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bassam Serag</h1>
-<p align="center"> 
-  <samp>
-    <a href="#">「 Connect with me 」</a>
-    <br>
   
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Front+end+developer+from+Egypt+!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
+<p align="center"> 
+  <samp>
+    <a href="#">「 Connect with me 」</a>
+    <br>
   </samp>
 </p>
 <p align="center">
